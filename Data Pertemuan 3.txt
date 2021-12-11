@@ -1,0 +1,12 @@
+No	KabKot	IPM
+1	FakFak	72.64
+2	Kaimana	71.22
+3	TelukWondana	66.8
+4	TelukBintuni	67.58
+5	Manokwari	68.07
+6	SorongSelatan	66.83
+7	SorongSelatan	69.23
+8	RajaAmpat	65.49
+9	Tambrauw	51.18
+10	Maybrat	67.26
+11	KotaSorong	78.36
